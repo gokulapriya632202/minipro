@@ -65,11 +65,11 @@ With its revolutionary approach to human-computer interaction, this system impro
 
 ## Articles published / References
 
-(2022). Deep learning based Hand gesture recognition system and design of a Human-Machine Interface. doi: 10.48550/arxiv.2207.03112
-M.Dhyanesh., R., Vijay, Kumar., MD., Ameena., M., Surya, Teja., R., Vijay, Krishna., Dr., G., Krishna, Kishore. (2024). Virtual Mouse using Hand Gesture Recognition. International Journal For Multidisciplinary Research, doi: 10.36948/ijfmr.2024.v06i02.14594
-Ramachandrudu, Chowdam, C. Ajith, and T. Murali. "Human Computer Interaction Using Hand Gesture.“
-K. Roy and M. A. H. Akif, "Real Time Hand Gesture Based User Friendly Human Computer Interaction System," 2022 International Conference on Innovations in Science, Engineering and Technology (ICISET), Chittagong, Bangladesh, 2022, pp. 260-265, doi: 10.1109/ICISET54810.2022.9775918.
-Shaikh, Sahil, Gaurav Narode, Kalyani Thorat, Achal Pardeshi, and D. P. Jain. "GESTURE RECOGNITION BASED VIRTUAL MOUSE AND KEYBOARD."
+*(2022). Deep learning based Hand gesture recognition system and design of a Human-Machine Interface. doi: 10.48550/arxiv.2207.03112
+*M.Dhyanesh., R., Vijay, Kumar., MD., Ameena., M., Surya, Teja., R., Vijay, Krishna., Dr., G., Krishna, Kishore. (2024). Virtual Mouse using Hand Gesture Recognition. International Journal For Multidisciplinary Research, doi: 10.36948/ijfmr.2024.v06i02.14594
+*Ramachandrudu, Chowdam, C. Ajith, and T. Murali. "Human Computer Interaction Using Hand Gesture.“
+*K. Roy and M. A. H. Akif, "Real Time Hand Gesture Based User Friendly Human Computer Interaction System," 2022 International Conference on Innovations in Science, Engineering and Technology (ICISET), Chittagong, Bangladesh, 2022, pp. 260-265, doi: 10.1109/ICISET54810.2022.9775918.
+*Shaikh, Sahil, Gaurav Narode, Kalyani Thorat, Achal Pardeshi, and D. P. Jain. "GESTURE RECOGNITION BASED VIRTUAL MOUSE AND KEYBOARD."
 
 
 
