@@ -18,18 +18,18 @@ In situations like healthcare or for people with physical limitations, where typ
 ## REQUIREMENTS
 
 * Hardware Requirements:
-  *Camera or Webcam for capturing real-time hand gestures.
-  *Computer with moderate processing power to handle real-time video processing.
-  *Minimum 8 GB RAM for efficient performance.
-*Software Requirements:
-  *Python 3.x as the programming language.
-*Libraries:
-  *OpenCV for image and video processing.
-  *MediaPipe for hand tracking and gesture recognition.
-  *NumPy for numerical computations.
-  *PyAutoGUI for mouse control actions.
-  *TensorFlow/Keras (optional) for deep learning-based gesture recognition.
-  *Compatible with Windows, macOS, or Linux.
+  - Camera or Webcam for capturing real-time hand gestures.
+  * Computer with moderate processing power to handle real-time video processing.
+  * Minimum 8 GB RAM for efficient performance.
+* Software Requirements:
+  * Python 3.x as the programming language.
+* Libraries:
+  * OpenCV for image and video processing.
+  * MediaPipe for hand tracking and gesture recognition.
+  * NumPy for numerical computations.
+  * PyAutoGUI for mouse control actions.
+  * TensorFlow/Keras (optional) for deep learning-based gesture recognition.
+  * Compatible with Windows, macOS, or Linux.
 
 ## SYSTEM ARCHITECTURE
 
